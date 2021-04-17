@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KyleEuman/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/KyleEuman/Employee-Tracker#readme"
+  "homepage": "https://github.com/KyleEuman/Employee-Tracker#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
