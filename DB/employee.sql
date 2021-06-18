@@ -1,6 +1,6 @@
 Drop Database If Exists employeedb;
 Create Database employeedb;
-USE employee_trackerdb;
+USE employeedb;
 
 Create Table departments( 
     id INT PRIMARY KEY not null;
